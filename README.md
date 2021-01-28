@@ -3,7 +3,7 @@
 This is the code repository for CodingNomads' 3-day Python Training. Each day introduces you to programming concepts and the Python language through
 a practical and project-oriented approach.
 
-Follow us [on Twitch](twitch.tv/codingnomads) and [on YouTube](https://www.youtube.com/channel/UCGA2DeCbZH4pTq7Mmh24-4A) for walk-through videos and
+Follow us [on Twitch](https://twitch.tv/codingnomads) and [on YouTube](https://www.youtube.com/channel/UCGA2DeCbZH4pTq7Mmh24-4A) for walk-through videos and
 more content.
 
 ## Day 1 - Move Files With Python
